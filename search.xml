@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[中文文章测试]]></title>
+    <url>%2F2019%2F09%2F12%2Fchinese-test%2F</url>
+    <content type="text"><![CDATA[这个是我用来测试的 文字链接! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. 快速开始创建一个新的文章1$ hexo new "我的新发布" 阅读更多： 书写 运行服务1$ hexo server 阅读更多： 服务 生成静态文件1$ hexo generate 阅读更多： 生成 部署到远程站点1$ hexo deploy 阅读更多： 部署]]></content>
+      <categories>
+        <category>测试分类</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>标签一</tag>
+        <tag>瞎搞</tag>
+      </tags>
+  </entry>
+</search>
